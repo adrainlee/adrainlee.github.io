@@ -2,8 +2,8 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
-paginate:       5
+title:          Good Good Study
+paginate:       10
 baseurl:        "/adrainlee.github.io"
 url:            "http://adrainlee.github.io"
 
