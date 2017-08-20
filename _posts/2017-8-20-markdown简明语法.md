@@ -36,7 +36,8 @@ Markdown支持两种标题的语法，类Setext和类atx形式。
 ### **图片和链接**  
 插入链接和图片的语法很像，区别在于`!`  
 链接示例：  `[my github pages](http://texin.me)`   
-[my github pages](http://texin.me)
+[my github pages](http://texin.me)  
+
 插入图片：　`![]()` 
  
 * 一个感叹号`!`
